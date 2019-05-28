@@ -1,0 +1,11 @@
+G:\visual studio 2012\Project\MyProject\Library\Library\bin\Release\Library.exe.config
+G:\visual studio 2012\Project\MyProject\Library\Library\bin\Release\Library.exe
+G:\visual studio 2012\Project\MyProject\Library\Library\bin\Release\Library.pdb
+G:\visual studio 2012\Project\MyProject\Library\Library\obj\Release\Library.Library.resources
+G:\visual studio 2012\Project\MyProject\Library\Library\obj\Release\Library.Admin.resources
+G:\visual studio 2012\Project\MyProject\Library\Library\obj\Release\Library.Users.resources
+G:\visual studio 2012\Project\MyProject\Library\Library\obj\Release\Library.Properties.Resources.resources
+G:\visual studio 2012\Project\MyProject\Library\Library\obj\Release\Library.registered.resources
+G:\visual studio 2012\Project\MyProject\Library\Library\obj\Release\Library.csproj.GenerateResource.Cache
+G:\visual studio 2012\Project\MyProject\Library\Library\obj\Release\Library.exe
+G:\visual studio 2012\Project\MyProject\Library\Library\obj\Release\Library.pdb

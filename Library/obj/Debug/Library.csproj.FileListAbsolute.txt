@@ -1,0 +1,34 @@
+G:\visual studio 2012\Project\MyProject\Library\Library\bin\Debug\Library.exe.config
+G:\visual studio 2012\Project\MyProject\Library\Library\bin\Debug\Library.exe
+G:\visual studio 2012\Project\MyProject\Library\Library\bin\Debug\Library.pdb
+G:\visual studio 2012\Project\MyProject\Library\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+G:\visual studio 2012\Project\MyProject\Library\Library\obj\Debug\Library.Library.resources
+G:\visual studio 2012\Project\MyProject\Library\Library\obj\Debug\Library.Properties.Resources.resources
+G:\visual studio 2012\Project\MyProject\Library\Library\obj\Debug\Library.csproj.GenerateResource.Cache
+G:\visual studio 2012\Project\MyProject\Library\Library\obj\Debug\Library.exe
+G:\visual studio 2012\Project\MyProject\Library\Library\obj\Debug\Library.pdb
+G:\visual studio 2012\Project\MyProject\Library\Library\obj\Debug\Library.Admin.resources
+G:\visual studio 2012\Project\MyProject\Library\Library\obj\Debug\Library.Users.resources
+C:\Users\dell\Desktop\Library1\Library\Library\bin\Debug\Library.exe.config
+C:\Users\dell\Desktop\Library1\Library\Library\obj\Debug\Library.exe
+C:\Users\dell\Desktop\Library1\Library\Library\obj\Debug\Library.pdb
+C:\Users\dell\Desktop\Library1\Library\Library\bin\Debug\Library.exe
+C:\Users\dell\Desktop\Library1\Library\Library\bin\Debug\Library.pdb
+C:\Users\dell\Desktop\Library1\Library\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\Library1\Library\Library\obj\Debug\Library.Library.resources
+C:\Users\dell\Desktop\Library1\Library\Library\obj\Debug\Library.Admin.resources
+C:\Users\dell\Desktop\Library1\Library\Library\obj\Debug\Library.Users.resources
+C:\Users\dell\Desktop\Library1\Library\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\dell\Desktop\Library1\Library\Library\obj\Debug\Library.registered.resources
+C:\Users\dell\Desktop\Library1\Library\Library\obj\Debug\Library.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\课程设计\Library\Library\bin\Debug\Library.exe.config
+C:\Users\Administrator\Desktop\课程设计\Library\Library\obj\Debug\Library.exe
+C:\Users\Administrator\Desktop\课程设计\Library\Library\obj\Debug\Library.pdb
+C:\Users\Administrator\Desktop\课程设计\Library\Library\bin\Debug\Library.exe
+C:\Users\Administrator\Desktop\课程设计\Library\Library\bin\Debug\Library.pdb
+C:\Users\Administrator\Desktop\课程设计\Library\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\课程设计\Library\Library\obj\Debug\Library.Library.resources
+C:\Users\Administrator\Desktop\课程设计\Library\Library\obj\Debug\Library.Admin.resources
+C:\Users\Administrator\Desktop\课程设计\Library\Library\obj\Debug\Library.Users.resources
+C:\Users\Administrator\Desktop\课程设计\Library\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\Administrator\Desktop\课程设计\Library\Library\obj\Debug\Library.csproj.GenerateResource.Cache
